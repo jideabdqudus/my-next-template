@@ -8,7 +8,7 @@ A modern, opinionated Next.js template with TypeScript, Tailwind CSS, and essent
 - 🔒 TypeScript for type safety
 - 💨 Tailwind CSS for styling
 - 🎨 Tailwind CSS Animations
-- 🧩 Radix UI primitives
+- 🧩 Radix + Shadcn UI primitives
 - 🔍 ESLint for code linting
 - ✨ Prettier for code formatting
 - 📱 Responsive design ready
@@ -18,7 +18,7 @@ A modern, opinionated Next.js template with TypeScript, Tailwind CSS, and essent
 
 ```bash
 # Clone this template
-git clone <your-repo-url>
+git clone https://github.com/jideabdqudus/my-next-template.git
 
 # Install dependencies
 npm install
@@ -46,27 +46,6 @@ Visit [http://localhost:3005](http://localhost:3005) to see your application.
 - `npm run build` - Build for production
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
-
-## Suggested Improvements
-
-1. Consider adding:
-   - Husky for git hooks
-   - Jest/Vitest for testing
-   - React Query for data fetching
-   - Zod for schema validation
-   - State management (e.g., Zustand/Jotai)
-   - API route examples
-   - Environment variables validation
-
-2. Security enhancements:
-   - Add security headers
-   - CSP configuration
-   - Rate limiting for API routes
-
-3. Developer experience:
-   - Add VSCode settings and recommended extensions
-   - Include common component patterns
-   - Add Storybook for component documentation
 
 ## License
 
